@@ -1,3 +1,12 @@
+# joplin-garden-worker
+engine = "hugo"
+defaultFolder="blog"
+stripHtmlComments = true
+includeTags = [
+    "jgw-sample"
+]
+
+# Quartz options
 baseURL = "https://garden.michaeldemar.co/"
 languageCode = "en-us"
 relativeURLs = false
@@ -31,3 +40,6 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+
+[hugoOptions]
+    outputAsFolder = true
