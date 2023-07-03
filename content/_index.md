@@ -1,5 +1,5 @@
 ---
-title: 🌱 Michael's Digital Garden
+title: Michael's Digital Garden
 enableToc: false
 ---
 
