@@ -15,7 +15,7 @@ Check out some of the [amazing gardens that community members](notes/showcase.md
 
 ## Get Started
 
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+> 📚 Step 1: [Set up your own digital garden using Quartz](notes/setup.md)
 
 Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
