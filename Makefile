@@ -27,5 +27,6 @@ format:
 	@prettier --write **/*.{js,scss,html,md,yml,json}
 
 joplin:
+	@rm -f metadata.yaml
 	@mkdir -p content/joplin
 	jgw export content/joplin

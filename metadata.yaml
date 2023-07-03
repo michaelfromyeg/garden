@@ -1,16 +1,4 @@
 notes:
-  - link: Hong Kong
-    filename: hong kong/index.md
-    folder: blog
-    headers:
-      title: Hong Kong
-      draft: false
-      date: 2023-04-02T01:36:59.054Z
-      summary: " "
-      joplinId: 9ed7d8fea0a648de8cb1c8ccbd981172
-      backlinks: []
-    id: 9ed7d8fea0a648de8cb1c8ccbd981172
-    title: Hong Kong
   - link: Insert Interval
     filename: insert interval.md
     folder: .
@@ -155,3 +143,15 @@ notes:
       backlinks: []
     id: af7ca90dae42489aa12028f1e799b5fe
     title: The Unofficial Goldman Sachs Guide To Being A Man
+  - link: Hong Kong
+    filename: hong kong.md
+    folder: .
+    headers:
+      title: Hong Kong
+      draft: false
+      date: 2023-04-02T01:36:59.054Z
+      summary: " "
+      joplinId: 9ed7d8fea0a648de8cb1c8ccbd981172
+      backlinks: []
+    id: 9ed7d8fea0a648de8cb1c8ccbd981172
+    title: Hong Kong
