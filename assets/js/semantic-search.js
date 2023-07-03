@@ -3,15 +3,15 @@
 // If someone knows how to do this w/o breaking the Operand typescript-sdk for npm users,
 // please let Morgan (@morgallant) and/or (@_jzhao) know! <3
 
-const apiKey = "{{$.Site.Data.config.search.operandApiKey}}"
-const indexId = "{{$.Site.Data.config.search.operandIndexId}}"
+const apiKey = "{{$.Site.Data.config.search.operandApiKey}}";
+const indexId = "{{$.Site.Data.config.search.operandIndexId}}";
 
 function parseSearchResults(searchResults) {
   return searchResults.matches.map((m) => ({
     content: m.content,
     title: searchResults.objects[m.objectId].properties.properties._title.text,
     url: searchResults.objects[m.objectId].properties.properties._url.text,
-  }))
+  }));
 }
 
 async function searchContents(query) {
@@ -26,29 +26,29 @@ async function searchContents(query) {
       query: query,
       limit: 10,
     }),
-  })
+  });
   if (result.ok) {
-    return parseSearchResults(await result.json())
+    return parseSearchResults(await result.json());
   } else {
-    console.error(result)
+    console.error(result);
   }
 }
 
 function debounce(func, timeout = 200) {
-  let timer
+  let timer;
   return (...args) => {
-    clearTimeout(timer)
+    clearTimeout(timer);
     timer = setTimeout(() => {
-      func.apply(this, args)
-    }, timeout)
-  }
+      func.apply(this, args);
+    }, timeout);
+  };
 }
 
 registerHandlers(
   debounce((e) => {
-    let term = e.target.value
+    let term = e.target.value;
     if (term !== "") {
-      searchContents(term).then((results) => displayResults(term, results))
+      searchContents(term).then((results) => displayResults(term, results));
     }
   }),
-)
+);

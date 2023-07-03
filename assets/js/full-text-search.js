@@ -1,5 +1,5 @@
-; (async function() {
-  const encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
+(async function () {
+  const encoder = (str) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/);
   const contentIndex = new FlexSearch.Document({
     cache: true,
     charset: "latin:extra",
@@ -16,15 +16,15 @@
         encode: encoder,
       },
     ],
-  })
+  });
 
-  const { content } = await fetchData
+  const { content } = await fetchData;
   for (const [key, value] of Object.entries(content)) {
     contentIndex.add({
       id: key,
       title: value.title,
       content: removeMarkdown(value.content),
-    })
+    });
   }
 
   const formatForDisplay = (id) => ({
@@ -32,10 +32,10 @@
     url: id,
     title: content[id].title,
     content: content[id].content,
-  })
+  });
 
   registerHandlers((e) => {
-    const term = e.target.value
+    const term = e.target.value;
     const searchResults = contentIndex.search(term, [
       {
         field: "content",
@@ -45,17 +45,17 @@
         field: "title",
         limit: 5,
       },
-    ])
+    ]);
     const getByField = (field) => {
-      const results = searchResults.filter((x) => x.field === field)
+      const results = searchResults.filter((x) => x.field === field);
       if (results.length === 0) {
-        return []
+        return [];
       } else {
-        return [...results[0].result]
+        return [...results[0].result];
       }
-    }
-    const allIds = new Set([...getByField("title"), ...getByField("content")])
-    const finalResults = [...allIds].map(formatForDisplay)
-    displayResults(term, finalResults, true)
-  })
-})()
+    };
+    const allIds = new Set([...getByField("title"), ...getByField("content")]);
+    const finalResults = [...allIds].map(formatForDisplay);
+    displayResults(term, finalResults, true);
+  });
+})();
