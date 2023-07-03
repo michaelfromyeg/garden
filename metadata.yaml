@@ -1,6 +1,6 @@
 notes:
   - link: Hong Kong
-    filename: Hong Kong/index.md
+    filename: hong kong/index.md
     folder: blog
     headers:
       title: Hong Kong
@@ -12,7 +12,7 @@ notes:
     id: 9ed7d8fea0a648de8cb1c8ccbd981172
     title: Hong Kong
   - link: Insert Interval
-    filename: Insert Interval.md
+    filename: insert interval.md
     folder: .
     headers:
       title: Insert Interval
@@ -24,7 +24,7 @@ notes:
     id: bd312d9e93fe4f17a774019b56b42d1c
     title: Insert Interval
   - link: RapViz
-    filename: RapViz.md
+    filename: rapviz.md
     folder: .
     headers:
       title: RapViz
@@ -36,7 +36,7 @@ notes:
     id: 9960d0b33f5941cdb0ebd04d3b3b9071
     title: RapViz
   - link: Elegant Compression in Text (The LZ 77 Method)  Computerphile
-    filename: Elegant Compression in Text (The LZ 77 Method)  Computerphile.md
+    filename: elegant compression in text (the lz 77 method)  computerphile.md
     folder: .
     headers:
       title: Elegant Compression in Text (The LZ 77 Method), Computerphile
@@ -48,7 +48,7 @@ notes:
     id: 78967b0986434328bf47e6bdb5c405e3
     title: Elegant Compression in Text (The LZ 77 Method), Computerphile
   - link: Philippines
-    filename: Philippines.md
+    filename: philippines.md
     folder: .
     headers:
       title: Philippines
@@ -60,7 +60,7 @@ notes:
     id: 65ed5004677b41f5b88cc711f342f06f
     title: Philippines
   - link: Vietnam
-    filename: Vietnam.md
+    filename: vietnam.md
     folder: .
     headers:
       title: Vietnam
@@ -72,7 +72,7 @@ notes:
     id: 2eac9468ecb1449481fb13f0cfd32de9
     title: Vietnam
   - link: Philippines  Brainstorm
-    filename: Philippines  Brainstorm.md
+    filename: philippines  brainstorm.md
     folder: .
     headers:
       title: Philippines, Brainstorm
@@ -84,7 +84,7 @@ notes:
     id: 2715c96dfe7a48ddb0af277d26631144
     title: Philippines, Brainstorm
   - link: 2023S Course Planning
-    filename: 2023S Course Planning.md
+    filename: 2023s course planning.md
     folder: .
     headers:
       title: 2023S Course Planning
@@ -96,7 +96,7 @@ notes:
     id: 2b257bb453ad48ee9192f235dbf61152
     title: 2023S Course Planning
   - link: We Choose to go to the Moon
-    filename: We Choose to go to the Moon.md
+    filename: we choose to go to the moon.md
     folder: .
     headers:
       title: We Choose to go to the Moon
@@ -108,7 +108,7 @@ notes:
     id: cab22fb3b1f747b0b85a1ec65067d037
     title: We Choose to go to the Moon
   - link: Gemz
-    filename: Gemz.md
+    filename: gemz.md
     folder: .
     headers:
       title: Gemz
@@ -120,7 +120,7 @@ notes:
     id: 12a32fe47c79419793d714db360abb08
     title: Gemz
   - link: Life Explained in 27 Seconds
-    filename: Life Explained in 27 Seconds.md
+    filename: life explained in 27 seconds.md
     folder: .
     headers:
       title: Life Explained in 27 Seconds
@@ -132,7 +132,7 @@ notes:
     id: 8b965c84e81249c1886219856c2151a1
     title: Life Explained in 27 Seconds
   - link: The Flesh of Polar Codes
-    filename: The Flesh of Polar Codes.md
+    filename: the flesh of polar codes.md
     folder: .
     headers:
       title: The Flesh of Polar Codes
@@ -144,7 +144,7 @@ notes:
     id: e6ec3797807d4f59b513fe4fb8a5263a
     title: The Flesh of Polar Codes
   - link: The Unofficial Goldman Sachs Guide To Being A Man
-    filename: The Unofficial Goldman Sachs Guide To Being A Man.md
+    filename: the unofficial goldman sachs guide to being a man.md
     folder: .
     headers:
       title: The Unofficial Goldman Sachs Guide To Being A Man

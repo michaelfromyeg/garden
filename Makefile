@@ -24,4 +24,8 @@ docker: ## Serve locally using Docker
 	docker run -it --volume=$(shell pwd):/quartz -p 1313:1313 ghcr.io/jackyzha0/quartz:hugo
 
 format:
-	prettier --write **/*.{js,scss,html,md,yml,json}
+	@prettier --write **/*.{js,scss,html,md,yml,json}
+
+joplin:
+	@mkdir -p content/joplin
+	jgw export content/joplin
