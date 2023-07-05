@@ -102,9 +102,8 @@ const highlight = (content, term) => {
     })
     .join(" ")
     .replaceAll('</span> <span class="search-highlight">', " ");
-  return `${startIndex === 0 ? "" : "..."}${mappedText}${
-    endIndex === splitText.length ? "" : "..."
-  }`;
+  return `${startIndex === 0 ? "" : "..."}${mappedText}${endIndex === splitText.length ? "" : "..."
+    }`;
 };
 
 // Common utilities for search
@@ -116,8 +115,9 @@ const resultToHTML = ({ url, title, content }) => {
 };
 
 const redir = (id, term) => {
-  const shouldTrim = PRODUCTION && SEARCH_ENABLED;
-  const baseURLPrefix = shouldTrim ? "" : BASE_URL.replace(/\/$/g, "");
+  // Remove the trailing slash from the base URL; `id` is already prefixed with a slash
+  const baseURLPrefix = BASE_URL.replace(/\/$/g, "");
+
   const urlString = `${baseURLPrefix}${id}#:~:text=${encodeURIComponent(term)}`;
   window.Million.navigate(new URL(urlString), ".singlePage");
   closeSearch();
@@ -216,6 +216,7 @@ const displayResults = (term, finalResults, extractHighlight = false) => {
     }
 
     const anchors = [...document.getElementsByClassName("result-card")];
+
     anchors.forEach((anchor) => {
       anchor.onclick = () => redir(anchor.id, term);
     });
