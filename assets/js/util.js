@@ -119,8 +119,6 @@ const redir = (id, term) => {
   const baseURLPrefix = BASE_URL.replace(/\/$/g, "");
   const urlString = `${baseURLPrefix}${id}#:~:text=${encodeURIComponent(term)}`;
 
-  console.log({ urlString });
-
   window.Million.navigate(new URL(urlString), ".singlePage");
   closeSearch();
   plausible("Search", {
