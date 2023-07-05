@@ -117,8 +117,10 @@ const resultToHTML = ({ url, title, content }) => {
 const redir = (id, term) => {
   // Remove the trailing slash from the base URL; `id` is already prefixed with a slash
   const baseURLPrefix = BASE_URL.replace(/\/$/g, "");
-
   const urlString = `${baseURLPrefix}${id}#:~:text=${encodeURIComponent(term)}`;
+
+  console.log({ urlString });
+
   window.Million.navigate(new URL(urlString), ".singlePage");
   closeSearch();
   plausible("Search", {
