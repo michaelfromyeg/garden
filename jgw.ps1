@@ -18,3 +18,8 @@ jgw export .\content\joplin
 # Format notes
 npm -g i prettier
 prettier content/ --write
+
+# Commit and push changes
+git add .
+git commit -m "docs: update notes"
+git push -u origin hugo
