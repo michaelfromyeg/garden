@@ -155,3 +155,15 @@ notes:
       backlinks: []
     id: 9ed7d8fea0a648de8cb1c8ccbd981172
     title: Hong Kong
+  - link: SURE Journal
+    filename: sure journal.md
+    folder: .
+    headers:
+      title: SURE Journal
+      draft: false
+      date: 2023-05-12T17:51:23.983Z
+      summary: " "
+      joplinId: d84107c2c0cb41fd82d891f3ef390239
+      backlinks: []
+    id: d84107c2c0cb41fd82d891f3ef390239
+    title: SURE Journal
