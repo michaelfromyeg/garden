@@ -9,4 +9,10 @@ Welcome to my digital garden! 🧑‍🌾🌱
 - It leverages [joplin-garden-worker](https://github.com/benlau/joplin-garden-worker) to source my notes from [Joplin](https://joplinapp.org/)
 - It's still verymuchso a work-in-progress; let me know if you find typos or bugs!
 
-![JFK at the Kennedy Space Center](images/jfk-at-ksc.png)
+Here are a few collections you can take a look at to get started.
+
+- [joplin](./joplin/), a subset of the notes I've taken in [Joplin](https://joplinapp.org)
+  - (...be warned: it's a mess!)
+- [notes](./notes/), other loose ends and tidbits
+
+Enjoy!

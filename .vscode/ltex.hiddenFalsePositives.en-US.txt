@@ -1,0 +1,1 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qjoplin, a subset of the notes I've taken in Joplin\\E$"}
