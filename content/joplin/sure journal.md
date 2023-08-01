@@ -23,7 +23,7 @@ backlinks: []
 
 ## 2023-08-01
 
-- Build new, more sophisticated models for for use with UP 
+- Build new, more sophisticated models for for use with UP
 - Verify EPM e-mail received (message Kevin, Chris)
 	- Can run on Python 3.11 fine; needs `np.float` to be renamed `np.float64` (or 32) for use with later NumPy version
 - Send Chris initial set of UP plots

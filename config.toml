@@ -1,8 +1,7 @@
-# quartz
-baseURL = "https://garden.michaeldemar.co/"
+baseURL = "https://quartz.jzhao.xyz/"
 languageCode = "en-us"
 relativeURLs = false
-disablePathToLower = false
+disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
@@ -10,16 +9,6 @@ ignoreFiles = [
 summaryLength = 20
 paginate = 10
 enableGitInfo = true
-
-# joplin-garden-worker
-engine = "hugo"
-defaultFolder = "."
-stripHtmlComments = true
-includeTags = [
-    "quartz"
-]
-[hugoOptions]
-    outputAsFolder = false
 
 [markup]
     [markup.tableOfContents]
@@ -42,4 +31,3 @@ includeTags = [
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
-
