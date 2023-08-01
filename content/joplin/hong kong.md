@@ -5,8 +5,8 @@ date: 2023-04-02T01:36:59.054Z
 summary: " "
 joplinId: 9ed7d8fea0a648de8cb1c8ccbd981172
 backlinks: []
-
 ---
+
 # Hong Kong
 
 ## Bookmarks
@@ -27,13 +27,13 @@ The true 'essentials' are covered [here](https://www.discoverhongkong.com/eng/ex
 
 - Quarry Bay 'Monster Building' (done!)
 - Kowloon
-	- Un Chau Estate, Flower Tunnel \[Kowloon\]
-	- Chungking Mansions
-	- Kowloon Walled City Park
-	- The Whampoa
+  - Un Chau Estate, Flower Tunnel \[Kowloon\]
+  - Chungking Mansions
+  - Kowloon Walled City Park
+  - The Whampoa
 - A Sky Full of Gods and Buddhas (at Waterfall Bay Park) -- definite maybe!
 - Tian Tan Buddha
-	- Access with Ngong Ping 360
+  - Access with Ngong Ping 360
 - ~~Lam Tsuen Wishing Trees (...far north)~~
 - ~~Cheung Po Tsai Pirate Cave~~
 - Central-Mid-Levels Escalators

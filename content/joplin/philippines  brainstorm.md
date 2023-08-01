@@ -5,8 +5,8 @@ date: 2023-03-13T09:16:17.031Z
 summary: " "
 joplinId: 2715c96dfe7a48ddb0af277d26631144
 backlinks: []
-
 ---
+
 Depart on March 20 or March 21
 Return on March 30 or March 31
 
@@ -37,70 +37,70 @@ Cons
 ### Option C
 
 - Fly from SIN to MNL
-	- Thursday, March 23rd; depart at 6am, arrive at 10am ([Google Flights](https://www.google.com/travel/flights/search?tfs=CBwQAhopagwIAhIIL20vMDZ0MnQSCjIwMjMtMDMtMjNyDQgDEgkvbS8wMTk1cGRwAYIBCwj___________8BQAFIAZgBAg))
-		- (Another option to fly the night before on Wednesday, March 22nd at 10pm for more time in Manila, or to fly at 1am from SIN and arrive at 5am)
-	- Explore the forts, city center
+  - Thursday, March 23rd; depart at 6am, arrive at 10am ([Google Flights](https://www.google.com/travel/flights/search?tfs=CBwQAhopagwIAhIIL20vMDZ0MnQSCjIwMjMtMDMtMjNyDQgDEgkvbS8wMTk1cGRwAYIBCwj___________8BQAFIAZgBAg))
+    - (Another option to fly the night before on Wednesday, March 22nd at 10pm for more time in Manila, or to fly at 1am from SIN and arrive at 5am)
+  - Explore the forts, city center
 - Fly from MNL to PPS
-	- Friday, March 24th; depart 5:20am, arrive at 6:40am ([Google Flights](https://www.google.com/travel/flights/search?tfs=CBwQAhoqag0IAxIJL20vMDE5NXBkEgoyMDIzLTAzLTI0cg0IAxIJL20vMDZzNWQ0cAGCAQsI____________AUABSAGYAQI))
-	- Then, go to the Underground River; come back
-	- Spend the evening in PPS
-	- Then take overnight bus to El Nido ([12.go](https://secure.12go.asia/en/travel/puerto-princesa/el-nido?date=2023-03-24&people=2&direction=forward))
+  - Friday, March 24th; depart 5:20am, arrive at 6:40am ([Google Flights](https://www.google.com/travel/flights/search?tfs=CBwQAhoqag0IAxIJL20vMDE5NXBkEgoyMDIzLTAzLTI0cg0IAxIJL20vMDZzNWQ0cAGCAQsI____________AUABSAGYAQI))
+  - Then, go to the Underground River; come back
+  - Spend the evening in PPS
+  - Then take overnight bus to El Nido ([12.go](https://secure.12go.asia/en/travel/puerto-princesa/el-nido?date=2023-03-24&people=2&direction=forward))
 - Arrive in El Nido
-	- Saturday, March 25th; arrive around 4am
-	- Take a ferry over to Coron; depart at 12pm, arrive at 5pm ([12.go](https://secure.12go.asia/en/travel/el-nido/coron?date=2023-03-24&people=2&direction=forward))
-	- Spend the evening in Coron; check into hostel, meet with dive place, etc.,
+  - Saturday, March 25th; arrive around 4am
+  - Take a ferry over to Coron; depart at 12pm, arrive at 5pm ([12.go](https://secure.12go.asia/en/travel/el-nido/coron?date=2023-03-24&people=2&direction=forward))
+  - Spend the evening in Coron; check into hostel, meet with dive place, etc.,
 - Dive (#1)
-	- Sunday, March 26th
-	- Three dives; with a night dive
+  - Sunday, March 26th
+  - Three dives; with a night dive
 - Dive (#2)
-	- Monday, March 27th
-	- Three dives; end in the afternoon
+  - Monday, March 27th
+  - Three dives; end in the afternoon
 - Chill, and fly to Cebu City
-	- Tuesday, March 28th
-	- Depart at 3:50pm; arrive at 5pm ([Google Flights](https://www.google.com/travel/flights/search?tfs=CBwQAhokagcIARIDVVNVEgoyMDIzLTAzLTI4cg0IAxIJL20vMDFwX2x5cAGCAQsI____________AUABSAGYAQI))
-	- Chill; check-in to hostel, grab food
-	- (...Magellan Cross)
+  - Tuesday, March 28th
+  - Depart at 3:50pm; arrive at 5pm ([Google Flights](https://www.google.com/travel/flights/search?tfs=CBwQAhokagcIARIDVVNVEgoyMDIzLTAzLTI4cg0IAxIJL20vMDFwX2x5cAGCAQsI____________AUABSAGYAQI))
+  - Chill; check-in to hostel, grab food
+  - (...Magellan Cross)
 
 TODO: look at diving in or around Cebu. Could do that first, before the other activities. Then, flying is OK.
 
 - Bohol ("Chocolate Hills") day-trip from Cebu
-	- Wednesday, March 29th
-	- (...See a guide [here](https://www.pinoyadventurista.com/2022/09/cebu-to-bohol-ferry-schedule-fare-rates.html) and day trip options [here](https://www.klook.com/en-SG/activity/3645-sightsee-bohol-tour-cebu/?gclid=Cj0KCQjwn9CgBhDjARIsAD15h0BsgrNReb1iBIXOjA5B_QQ2oLViSwoGlWOeWUZ7MSbTW_1KtZWgp8gaAtpCEALw_wcB&gclsrc=aw.ds))
+  - Wednesday, March 29th
+  - (...See a guide [here](https://www.pinoyadventurista.com/2022/09/cebu-to-bohol-ferry-schedule-fare-rates.html) and day trip options [here](https://www.klook.com/en-SG/activity/3645-sightsee-bohol-tour-cebu/?gclid=Cj0KCQjwn9CgBhDjARIsAD15h0BsgrNReb1iBIXOjA5B_QQ2oLViSwoGlWOeWUZ7MSbTW_1KtZWgp8gaAtpCEALw_wcB&gclsrc=aw.ds))
 - Cebu to Moalboal
-	- Thursday, March 30th
-	- ~3h drive; could do Canyoneering, and snorkeling near (hostel?!)
-	- (Stay the night in Moalboal...?)
+  - Thursday, March 30th
+  - ~3h drive; could do Canyoneering, and snorkeling near (hostel?!)
+  - (Stay the night in Moalboal...?)
 - Moalboal to Cebu, to fly back
-	- Friday, March 31st
+  - Friday, March 31st
 
 ### Option D
 
 - Fly to Cebu
-	- March 22nd
+  - March 22nd
 - Dive (2-3 days)
-	- March 23rd
-	- March 24th
+  - March 23rd
+  - March 24th
 - Bohol (2 days)
-	- March 25th
-	- March 26th
+  - March 25th
+  - March 26th
 - Moalboal (2 days)
-	- March 27th
-	- March 28th
+  - March 27th
+  - March 28th
 
 ### Option E
 
 - Fly to Cebu
-	- Dive on Mactan Island
+  - Dive on Mactan Island
 - Ferry to Bohol
-	- Spend a day on scooter (hills, tarsiers, forest, etc.)
-	- End on Panglao Island
+  - Spend a day on scooter (hills, tarsiers, forest, etc.)
+  - End on Panglao Island
 - Dive in Bohol
 - Ferry to Oslob
-	- Do the whale shark tour!
-	- After, head to Moalboal
+  - Do the whale shark tour!
+  - After, head to Moalboal
 - Moalboal
-	- Sardine run in the morning
-	- Canyoneering
+  - Sardine run in the morning
+  - Canyoneering
 - Drive to Cebu City
 - Fly back
 
@@ -190,7 +190,7 @@ Lists of potential activities. (\*) is a "must-do".
 - Moalboal day trip from Cebu; sardine run
 - Canyoneering
 - Chocolate Hills (\*)
-	- (Doable as day-trip from Cebu... FWIW)
+  - (Doable as day-trip from Cebu... FWIW)
 - Whale Sharks (...not good)
 - Underground River (Puerto Princessa) (\*)
 - Firefly Watching Tour (Puerto Princessa)

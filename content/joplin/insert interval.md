@@ -5,8 +5,8 @@ date: 2023-06-16T00:44:43.079Z
 summary: " "
 joplinId: bd312d9e93fe4f17a774019b56b42d1c
 backlinks: []
-
 ---
+
 # Insert Interval
 
 You are given an array of non-overlapping intervals intervals where `intervals[i] = [start_i, end_i]` represent the start and the end of the `ith` interval and `intervals` is sorted in ascending order by `start_i`. You are also given an interval `newInterval = [start, end]` that represents the start and end of another interval.
