@@ -29,3 +29,13 @@ backlinks: []
   - Will do this after I verify the model outputs
 - Send Chris initial set of UP plots
 - Build plots for additional experiments (up vs. roar, or succinctly, `UPROAR`, and `naive`), send to Chris
+- Verify model outputs; looks like its spitting out `log10` values
+
+## 2023-08-02
+
+- Change `make_prediction` helper for `SurrogateEnvironment` to transform prediction by `10 ** prediction`
+  - Send output for `anytime_experiment` to Chris; not sure what to make of the plots... but it is something
+- Clean-up and refactoring for `utilitarian_configuration` to make the repository runnable (all experiments, all environments, all datasets)
+  - Work on detailed instructions for the project at the moment; should be done EOD
+- (Initial) work on benchmarking `naive`, `kappa`, `speedup` experiments... why are they so much slower?
+  - Will leverage cluster to try to estimate how long these will take
