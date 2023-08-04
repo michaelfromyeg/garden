@@ -7,7 +7,7 @@ joplinId: d84107c2c0cb41fd82d891f3ef390239
 backlinks: []
 ---
 
-# SURE Journal
+work to c# SURE Journal
 
 ## 2023-07-31
 
@@ -39,3 +39,18 @@ backlinks: []
   - Work on detailed instructions for the project at the moment; should be done EOD
 - (Initial) work on benchmarking `naive`, `kappa`, `speedup` experiments... why are they so much slower?
   - Will leverage cluster to try to estimate how long these will take
+
+## 2023-08-03
+
+- Work through Chris' comments...
+  - More code clean-up for `up`; starting to get a better grasp of the codebase
+  - Take a look at initial `sup` work
+- Sync work on `narval`; prepare Slurm scripts
+- A bit of work on CDCL solver (from DPLL decisions) while waiting for jobs to run
+
+## 2023-08-04
+
+- Run jobs and create benchmarks for each experiment
+  - Goal is to produce ballpark figure for each (`h` hours, `d` days, etc.)
+- Work on complete report with instructions for presentation Monday
+- More work on CDCL solver while waiting for decisions
