@@ -191,3 +191,63 @@ notes:
       backlinks: []
     id: ad963ac80c67465e82235fc15ae2863f
     title: Quiz 4
+  - link: Worksheet 9 (2023-11-02)
+    filename: worksheet 9 (2023-11-02).md
+    folder: .
+    headers:
+      title: Worksheet 9 (2023-11-02)
+      draft: false
+      date: 2023-11-02T19:46:09.576Z
+      summary: " "
+      joplinId: 72f453dea99143dc80b6efc3604eb0a0
+      backlinks: []
+    id: 72f453dea99143dc80b6efc3604eb0a0
+    title: Worksheet 9 (2023-11-02)
+  - link: Quiz 2
+    filename: quiz 2.md
+    folder: .
+    headers:
+      title: Quiz 2
+      draft: false
+      date: 2023-10-04T18:00:32.847Z
+      summary: " "
+      joplinId: 52be0c9d3a194152bb0d94400fc6141d
+      backlinks: []
+    id: 52be0c9d3a194152bb0d94400fc6141d
+    title: Quiz 2
+  - link: Quiz 1
+    filename: quiz 1.md
+    folder: .
+    headers:
+      title: Quiz 1
+      draft: false
+      date: 2023-09-19T22:28:43.942Z
+      summary: " "
+      joplinId: 0f8540c071374482a34583a5396e558e
+      backlinks: []
+    id: 0f8540c071374482a34583a5396e558e
+    title: Quiz 1
+  - link: Dragonfly (2023-10-11)
+    filename: dragonfly (2023-10-11).md
+    folder: .
+    headers:
+      title: Dragonfly (2023-10-11)
+      draft: false
+      date: 2023-10-11T20:07:51.000Z
+      summary: " "
+      joplinId: b943cb1aabe840799a146c381e3ee09e
+      backlinks: []
+    id: b943cb1aabe840799a146c381e3ee09e
+    title: Dragonfly (2023-10-11)
+  - link: Learn You Some Erlang
+    filename: learn you some erlang.md
+    folder: .
+    headers:
+      title: Learn You Some Erlang
+      draft: false
+      date: 2023-09-07T16:24:22.041Z
+      summary: " "
+      joplinId: 09d1619a4f9b4322bd6b359e308585a3
+      backlinks: []
+    id: 09d1619a4f9b4322bd6b359e308585a3
+    title: Learn You Some Erlang
