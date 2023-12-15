@@ -4,7 +4,11 @@ draft: false
 date: 2023-04-04T10:41:49.110Z
 summary: " "
 joplinId: 78967b0986434328bf47e6bdb5c405e3
-backlinks: []
+backlinks:
+  - id: 78967b0986434328bf47e6bdb5c405e3
+    text: Elegant Compression in Text (The LZ 77 Method), Computerphile
+    icon: fas
+    href: /./elegant-compression-in-text-(the-lz-77-method)--computerphile
 ---
 
 # Elegant Compression in Text (The LZ 77 Method)

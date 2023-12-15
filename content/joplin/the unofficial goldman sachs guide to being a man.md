@@ -4,7 +4,11 @@ draft: false
 date: 2023-07-03T18:56:14.492Z
 summary: " "
 joplinId: af7ca90dae42489aa12028f1e799b5fe
-backlinks: []
+backlinks:
+  - id: af7ca90dae42489aa12028f1e799b5fe
+    text: The Unofficial Goldman Sachs Guide To Being A Man
+    icon: fas
+    href: /./the-unofficial-goldman-sachs-guide-to-being-a-man
 ---
 
 # The Unofficial Goldman Sachs Guide To Being A Man

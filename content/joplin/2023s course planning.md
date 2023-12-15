@@ -4,7 +4,11 @@ draft: false
 date: 2023-04-20T04:42:59.499Z
 summary: " "
 joplinId: 2b257bb453ad48ee9192f235dbf61152
-backlinks: []
+backlinks:
+  - id: 2b257bb453ad48ee9192f235dbf61152
+    text: 2023S Course Planning
+    icon: fas
+    href: /./2023s-course-planning
 ---
 
 # 2023S Course Planning

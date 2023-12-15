@@ -4,7 +4,11 @@ draft: false
 date: 2023-04-02T09:35:53.511Z
 summary: " "
 joplinId: 2eac9468ecb1449481fb13f0cfd32de9
-backlinks: []
+backlinks:
+  - id: 2eac9468ecb1449481fb13f0cfd32de9
+    text: Vietnam
+    icon: fas
+    href: /./vietnam
 ---
 
 # Vietnam

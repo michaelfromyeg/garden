@@ -4,7 +4,11 @@ draft: false
 date: 2023-06-16T00:44:43.079Z
 summary: " "
 joplinId: bd312d9e93fe4f17a774019b56b42d1c
-backlinks: []
+backlinks:
+  - id: bd312d9e93fe4f17a774019b56b42d1c
+    text: Insert Interval
+    icon: fas
+    href: /./insert-interval
 ---
 
 # Insert Interval

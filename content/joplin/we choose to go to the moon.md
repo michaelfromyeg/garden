@@ -4,7 +4,11 @@ draft: false
 date: 2023-07-03T18:57:54.345Z
 summary: " "
 joplinId: cab22fb3b1f747b0b85a1ec65067d037
-backlinks: []
+backlinks:
+  - id: cab22fb3b1f747b0b85a1ec65067d037
+    text: We Choose to go to the Moon
+    icon: fas
+    href: /./we-choose-to-go-to-the-moon
 ---
 
 # We Choose to go to the Moon

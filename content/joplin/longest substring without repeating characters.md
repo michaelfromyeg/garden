@@ -4,7 +4,11 @@ draft: false
 date: 2023-08-02T01:59:50.348Z
 summary: " "
 joplinId: 13bb19c5216146799662eceef17a6ff8
-backlinks: []
+backlinks:
+  - id: 13bb19c5216146799662eceef17a6ff8
+    text: Longest Substring Without Repeating Characters
+    icon: fas
+    href: /./longest-substring-without-repeating-characters
 ---
 
 # Longest Substring Without Repeating Characters

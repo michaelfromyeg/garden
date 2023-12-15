@@ -4,7 +4,11 @@ draft: false
 date: 2023-05-12T17:51:23.983Z
 summary: " "
 joplinId: d84107c2c0cb41fd82d891f3ef390239
-backlinks: []
+backlinks:
+  - id: d84107c2c0cb41fd82d891f3ef390239
+    text: SURE Journal
+    icon: fas
+    href: /./sure-journal
 ---
 
 work to c# SURE Journal

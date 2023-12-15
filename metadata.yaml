@@ -8,7 +8,11 @@ notes:
       date: 2023-06-16T00:44:43.079Z
       summary: " "
       joplinId: bd312d9e93fe4f17a774019b56b42d1c
-      backlinks: []
+      backlinks:
+        - id: bd312d9e93fe4f17a774019b56b42d1c
+          text: Insert Interval
+          icon: fas
+          href: /./insert-interval
     id: bd312d9e93fe4f17a774019b56b42d1c
     title: Insert Interval
   - link: RapViz
@@ -32,7 +36,11 @@ notes:
       date: 2023-04-04T10:41:49.110Z
       summary: " "
       joplinId: 78967b0986434328bf47e6bdb5c405e3
-      backlinks: []
+      backlinks:
+        - id: 78967b0986434328bf47e6bdb5c405e3
+          text: Elegant Compression in Text (The LZ 77 Method), Computerphile
+          icon: fas
+          href: /./elegant-compression-in-text-(the-lz-77-method)--computerphile
     id: 78967b0986434328bf47e6bdb5c405e3
     title: Elegant Compression in Text (The LZ 77 Method), Computerphile
   - link: Philippines
@@ -44,7 +52,11 @@ notes:
       date: 2023-03-19T08:14:39.400Z
       summary: " "
       joplinId: 65ed5004677b41f5b88cc711f342f06f
-      backlinks: []
+      backlinks:
+        - id: 65ed5004677b41f5b88cc711f342f06f
+          text: Philippines
+          icon: fas
+          href: /./philippines
     id: 65ed5004677b41f5b88cc711f342f06f
     title: Philippines
   - link: Vietnam
@@ -56,7 +68,11 @@ notes:
       date: 2023-04-02T09:35:53.511Z
       summary: " "
       joplinId: 2eac9468ecb1449481fb13f0cfd32de9
-      backlinks: []
+      backlinks:
+        - id: 2eac9468ecb1449481fb13f0cfd32de9
+          text: Vietnam
+          icon: fas
+          href: /./vietnam
     id: 2eac9468ecb1449481fb13f0cfd32de9
     title: Vietnam
   - link: Philippines  Brainstorm
@@ -68,7 +84,11 @@ notes:
       date: 2023-03-13T09:16:17.031Z
       summary: " "
       joplinId: 2715c96dfe7a48ddb0af277d26631144
-      backlinks: []
+      backlinks:
+        - id: 2715c96dfe7a48ddb0af277d26631144
+          text: Philippines, Brainstorm
+          icon: fas
+          href: /./philippines--brainstorm
     id: 2715c96dfe7a48ddb0af277d26631144
     title: Philippines, Brainstorm
   - link: 2023S Course Planning
@@ -80,7 +100,11 @@ notes:
       date: 2023-04-20T04:42:59.499Z
       summary: " "
       joplinId: 2b257bb453ad48ee9192f235dbf61152
-      backlinks: []
+      backlinks:
+        - id: 2b257bb453ad48ee9192f235dbf61152
+          text: 2023S Course Planning
+          icon: fas
+          href: /./2023s-course-planning
     id: 2b257bb453ad48ee9192f235dbf61152
     title: 2023S Course Planning
   - link: We Choose to go to the Moon
@@ -92,7 +116,11 @@ notes:
       date: 2023-07-03T18:57:54.345Z
       summary: " "
       joplinId: cab22fb3b1f747b0b85a1ec65067d037
-      backlinks: []
+      backlinks:
+        - id: cab22fb3b1f747b0b85a1ec65067d037
+          text: We Choose to go to the Moon
+          icon: fas
+          href: /./we-choose-to-go-to-the-moon
     id: cab22fb3b1f747b0b85a1ec65067d037
     title: We Choose to go to the Moon
   - link: Gemz
@@ -104,7 +132,11 @@ notes:
       date: 2023-07-03T18:58:12.308Z
       summary: " "
       joplinId: 12a32fe47c79419793d714db360abb08
-      backlinks: []
+      backlinks:
+        - id: 12a32fe47c79419793d714db360abb08
+          text: Gemz
+          icon: fas
+          href: /./gemz
     id: 12a32fe47c79419793d714db360abb08
     title: Gemz
   - link: Life Explained in 27 Seconds
@@ -116,7 +148,11 @@ notes:
       date: 2023-07-03T18:57:10.306Z
       summary: " "
       joplinId: 8b965c84e81249c1886219856c2151a1
-      backlinks: []
+      backlinks:
+        - id: 8b965c84e81249c1886219856c2151a1
+          text: Life Explained in 27 Seconds
+          icon: fas
+          href: /./life-explained-in-27-seconds
     id: 8b965c84e81249c1886219856c2151a1
     title: Life Explained in 27 Seconds
   - link: The Flesh of Polar Codes
@@ -128,7 +164,11 @@ notes:
       date: 2023-07-03T18:55:49.322Z
       summary: " "
       joplinId: e6ec3797807d4f59b513fe4fb8a5263a
-      backlinks: []
+      backlinks:
+        - id: e6ec3797807d4f59b513fe4fb8a5263a
+          text: The Flesh of Polar Codes
+          icon: fas
+          href: /./the-flesh-of-polar-codes
     id: e6ec3797807d4f59b513fe4fb8a5263a
     title: The Flesh of Polar Codes
   - link: The Unofficial Goldman Sachs Guide To Being A Man
@@ -140,7 +180,11 @@ notes:
       date: 2023-07-03T18:56:14.492Z
       summary: " "
       joplinId: af7ca90dae42489aa12028f1e799b5fe
-      backlinks: []
+      backlinks:
+        - id: af7ca90dae42489aa12028f1e799b5fe
+          text: The Unofficial Goldman Sachs Guide To Being A Man
+          icon: fas
+          href: /./the-unofficial-goldman-sachs-guide-to-being-a-man
     id: af7ca90dae42489aa12028f1e799b5fe
     title: The Unofficial Goldman Sachs Guide To Being A Man
   - link: Hong Kong
@@ -152,7 +196,11 @@ notes:
       date: 2023-04-02T01:36:59.054Z
       summary: " "
       joplinId: 9ed7d8fea0a648de8cb1c8ccbd981172
-      backlinks: []
+      backlinks:
+        - id: 9ed7d8fea0a648de8cb1c8ccbd981172
+          text: Hong Kong
+          icon: fas
+          href: /./hong-kong
     id: 9ed7d8fea0a648de8cb1c8ccbd981172
     title: Hong Kong
   - link: SURE Journal
@@ -164,7 +212,11 @@ notes:
       date: 2023-05-12T17:51:23.983Z
       summary: " "
       joplinId: d84107c2c0cb41fd82d891f3ef390239
-      backlinks: []
+      backlinks:
+        - id: d84107c2c0cb41fd82d891f3ef390239
+          text: SURE Journal
+          icon: fas
+          href: /./sure-journal
     id: d84107c2c0cb41fd82d891f3ef390239
     title: SURE Journal
   - link: Longest Substring Without Repeating Characters
@@ -176,7 +228,11 @@ notes:
       date: 2023-08-02T01:59:50.348Z
       summary: " "
       joplinId: 13bb19c5216146799662eceef17a6ff8
-      backlinks: []
+      backlinks:
+        - id: 13bb19c5216146799662eceef17a6ff8
+          text: Longest Substring Without Repeating Characters
+          icon: fas
+          href: /./longest-substring-without-repeating-characters
     id: 13bb19c5216146799662eceef17a6ff8
     title: Longest Substring Without Repeating Characters
   - link: Quiz 4
@@ -188,7 +244,11 @@ notes:
       date: 2023-11-01T21:57:24.045Z
       summary: " "
       joplinId: ad963ac80c67465e82235fc15ae2863f
-      backlinks: []
+      backlinks:
+        - id: ad963ac80c67465e82235fc15ae2863f
+          text: Quiz 4
+          icon: fas
+          href: /./quiz-4
     id: ad963ac80c67465e82235fc15ae2863f
     title: Quiz 4
   - link: Worksheet 9 (2023-11-02)
@@ -200,7 +260,11 @@ notes:
       date: 2023-11-02T19:46:09.576Z
       summary: " "
       joplinId: 72f453dea99143dc80b6efc3604eb0a0
-      backlinks: []
+      backlinks:
+        - id: 72f453dea99143dc80b6efc3604eb0a0
+          text: Worksheet 9 (2023-11-02)
+          icon: fas
+          href: /./worksheet-9-(2023-11-02)
     id: 72f453dea99143dc80b6efc3604eb0a0
     title: Worksheet 9 (2023-11-02)
   - link: Quiz 2
@@ -212,7 +276,11 @@ notes:
       date: 2023-10-04T18:00:32.847Z
       summary: " "
       joplinId: 52be0c9d3a194152bb0d94400fc6141d
-      backlinks: []
+      backlinks:
+        - id: 52be0c9d3a194152bb0d94400fc6141d
+          text: Quiz 2
+          icon: fas
+          href: /./quiz-2
     id: 52be0c9d3a194152bb0d94400fc6141d
     title: Quiz 2
   - link: Quiz 1
@@ -224,7 +292,11 @@ notes:
       date: 2023-09-19T22:28:43.942Z
       summary: " "
       joplinId: 0f8540c071374482a34583a5396e558e
-      backlinks: []
+      backlinks:
+        - id: 0f8540c071374482a34583a5396e558e
+          text: Quiz 1
+          icon: fas
+          href: /./quiz-1
     id: 0f8540c071374482a34583a5396e558e
     title: Quiz 1
   - link: Dragonfly (2023-10-11)
@@ -236,7 +308,11 @@ notes:
       date: 2023-10-11T20:07:51.000Z
       summary: " "
       joplinId: b943cb1aabe840799a146c381e3ee09e
-      backlinks: []
+      backlinks:
+        - id: b943cb1aabe840799a146c381e3ee09e
+          text: Dragonfly (2023-10-11)
+          icon: fas
+          href: /./dragonfly-(2023-10-11)
     id: b943cb1aabe840799a146c381e3ee09e
     title: Dragonfly (2023-10-11)
   - link: Learn You Some Erlang
@@ -248,7 +324,11 @@ notes:
       date: 2023-09-07T16:24:22.041Z
       summary: " "
       joplinId: 09d1619a4f9b4322bd6b359e308585a3
-      backlinks: []
+      backlinks:
+        - id: 09d1619a4f9b4322bd6b359e308585a3
+          text: Learn You Some Erlang
+          icon: fas
+          href: /./learn-you-some-erlang
     id: 09d1619a4f9b4322bd6b359e308585a3
     title: Learn You Some Erlang
   - link: Lecture 24 (2023-11-03)
@@ -260,6 +340,10 @@ notes:
       date: 2023-11-03T19:03:55.248Z
       summary: " "
       joplinId: bb4dfc128fd94c90ad529b4248269614
-      backlinks: []
+      backlinks:
+        - id: bb4dfc128fd94c90ad529b4248269614
+          text: Lecture 24 (2023-11-03)
+          icon: fas
+          href: /./lecture-24-(2023-11-03)
     id: bb4dfc128fd94c90ad529b4248269614
     title: Lecture 24 (2023-11-03)

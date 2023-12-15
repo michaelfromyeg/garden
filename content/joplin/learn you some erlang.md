@@ -4,7 +4,11 @@ draft: false
 date: 2023-09-07T16:24:22.041Z
 summary: " "
 joplinId: 09d1619a4f9b4322bd6b359e308585a3
-backlinks: []
+backlinks:
+  - id: 09d1619a4f9b4322bd6b359e308585a3
+    text: Learn You Some Erlang
+    icon: fas
+    href: /./learn-you-some-erlang
 ---
 
 # Learn You Some Erlang

@@ -4,7 +4,11 @@ draft: false
 date: 2023-10-04T18:00:32.847Z
 summary: " "
 joplinId: 52be0c9d3a194152bb0d94400fc6141d
-backlinks: []
+backlinks:
+  - id: 52be0c9d3a194152bb0d94400fc6141d
+    text: Quiz 2
+    icon: fas
+    href: /./quiz-2
 ---
 
 # Quiz 2

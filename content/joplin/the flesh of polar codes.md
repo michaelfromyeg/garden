@@ -4,7 +4,11 @@ draft: false
 date: 2023-07-03T18:55:49.322Z
 summary: " "
 joplinId: e6ec3797807d4f59b513fe4fb8a5263a
-backlinks: []
+backlinks:
+  - id: e6ec3797807d4f59b513fe4fb8a5263a
+    text: The Flesh of Polar Codes
+    icon: fas
+    href: /./the-flesh-of-polar-codes
 ---
 
 # The Flesh of Polar Codes

@@ -4,7 +4,11 @@ draft: false
 date: 2023-03-19T08:14:39.400Z
 summary: " "
 joplinId: 65ed5004677b41f5b88cc711f342f06f
-backlinks: []
+backlinks:
+  - id: 65ed5004677b41f5b88cc711f342f06f
+    text: Philippines
+    icon: fas
+    href: /./philippines
 ---
 
 # Philippines

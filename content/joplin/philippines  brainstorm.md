@@ -4,7 +4,11 @@ draft: false
 date: 2023-03-13T09:16:17.031Z
 summary: " "
 joplinId: 2715c96dfe7a48ddb0af277d26631144
-backlinks: []
+backlinks:
+  - id: 2715c96dfe7a48ddb0af277d26631144
+    text: Philippines, Brainstorm
+    icon: fas
+    href: /./philippines--brainstorm
 ---
 
 Depart on March 20 or March 21
