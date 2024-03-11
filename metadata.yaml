@@ -212,11 +212,7 @@ notes:
       date: 2023-05-12T17:51:23.983Z
       summary: " "
       joplinId: d84107c2c0cb41fd82d891f3ef390239
-      backlinks:
-        - id: d84107c2c0cb41fd82d891f3ef390239
-          text: SURE Journal
-          icon: fas
-          href: /./sure-journal
+      backlinks: []
     id: d84107c2c0cb41fd82d891f3ef390239
     title: SURE Journal
   - link: Longest Substring Without Repeating Characters
@@ -347,3 +343,27 @@ notes:
           href: /./lecture-24-(2023-11-03)
     id: bb4dfc128fd94c90ad529b4248269614
     title: Lecture 24 (2023-11-03)
+  - link: How to give a talk
+    filename: how to give a talk.md
+    folder: .
+    headers:
+      title: How to give a talk
+      draft: false
+      date: 2024-03-09T23:48:16.405Z
+      summary: " "
+      joplinId: 597e3a56528f4948bcfa1841855ee8c5
+      backlinks: []
+    id: 597e3a56528f4948bcfa1841855ee8c5
+    title: How to give a talk
+  - link: How to pitch
+    filename: how to pitch.md
+    folder: .
+    headers:
+      title: How to pitch
+      draft: false
+      date: 2023-03-07T15:54:33.670Z
+      summary: " "
+      joplinId: 176bb20b13b24bc38edf4ff7bf447597
+      backlinks: []
+    id: 176bb20b13b24bc38edf4ff7bf447597
+    title: How to pitch
